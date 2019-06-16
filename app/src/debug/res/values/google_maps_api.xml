@@ -1,0 +1,12 @@
+<resources>
+    <!--
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    0F:71:8F:DF:72:8C:2C:09:F8:95:52:28:F3:50:60:2C:66:C6:FE:F7
+
+    SHA-1 certificate fingerprint:
+    0F:71:8F:DF:72:8C:2C:09:F8:95:52:28:F3:50:60:2C:66:C6:FE:F7
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCKyezbEsLNnGiTdiF-_QUAnR2Lq9TWN0c</string>
+</resources>
